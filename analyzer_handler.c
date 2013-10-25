@@ -19,5 +19,5 @@
 #include "hadoop_api.h"
 
 void analyzer_handler(...){
-	//modified
+	//fix bug
 }
