@@ -18,6 +18,7 @@
 
 void _init_computing_center()
 {
+	//modified
 }
 
 void computing()
