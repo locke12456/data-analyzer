@@ -23,6 +23,7 @@ void _init_computing_center()
 
 void computing()
 {
+	//fix bug
 }
 
 void computing_center()
