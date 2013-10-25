@@ -19,5 +19,5 @@
 #include "hadoop_api.h"
 
 void analyzer_manager(){
-	//modified
+	//bug fixed
 }
