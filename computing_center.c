@@ -24,6 +24,7 @@ void _init_computing_center()
 void computing()
 {
 	//modified
+	//fix bug v2
 }
 
 void computing_center()
